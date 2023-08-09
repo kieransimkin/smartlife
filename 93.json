@@ -14,7 +14,7 @@
                 "oC": "#55ffcc",
                 "wC": "#ddeeff",
                 "tC": "#1155ff",
-                "e": -0.5,
+                "e": "-0.5",
                 "o": 66,
                 "fR": 0,
                 "sR": 0,
@@ -37,7 +37,7 @@
                 "d": 700,
                 "m": -1,
                 "sS": 70000,
-                "oS": 0.015,
+                "oS": "0.015",
                 "mediaType": "image/svg+xml",
                 "image": [
                     "data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3",

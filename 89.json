@@ -32,7 +32,7 @@
                 ],
                 "d": 200,
                 "sS": 8000,
-                "oS": -0.04,
+                "oS": "-0.04",
                 "mediaType": "image/svg+xml",
                 "image": [
                     "data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3",
